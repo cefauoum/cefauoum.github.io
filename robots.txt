@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://cefauoum.github.io/sitemap/sitemap.txt
